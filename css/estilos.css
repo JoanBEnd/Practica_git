@@ -1,5 +1,31 @@
-body{
-    text-align: center;
+body{    
     font-family: Arial, Helvetica, sans-serif;
+    
+   
+}
+
+header{ 
+
     color: rgb(187, 87, 87);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+#seccion{
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+}
+
+#cuerpo{
+    width: 1080px; 
+    
+   
+}
+
+ul li{
+    margin-bottom: 10px;
 }
