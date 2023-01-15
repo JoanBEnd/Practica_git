@@ -30,3 +30,9 @@ ul li{
     margin-bottom: 10px;
     color: rgb(128, 102, 151);
 }
+
+
+.cabecera{
+    width: 100%;
+    background-color: rgb(206, 165, 243);
+}
